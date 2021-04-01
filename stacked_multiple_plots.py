@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+"""https://matplotlib.org/devdocs/gallery/subplots_axes_and_figures/subplots_demo.html
+"""
 import matplotlib.pyplot as plt
 import numpy as np
 
