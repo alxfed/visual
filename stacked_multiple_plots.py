@@ -16,6 +16,8 @@ axs[0].set(xlabel='x', ylabel='y')
 axs[1].plot(x, -y, 'tab:red')
 axs[1].set(xlabel='x', ylabel='- y')
 
+# https://matplotlib.org/stable/gallery/statistics/hist.html#sphx-glr-gallery-statistics-hist-py
+
 axs[2].set_title("unrelated")
 axs[2].hist2d(x, y)
 
